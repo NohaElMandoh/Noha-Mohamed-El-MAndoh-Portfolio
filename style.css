@@ -216,7 +216,7 @@ section {
 .home-sci {
     position: absolute;
     bottom: 4rem;
-    width: 170px;
+    width: 100px;
     display: flex;
     justify-content: space-between;
 }
@@ -768,7 +768,7 @@ section:nth-child(odd) .animate.scroll,
     }
 
     section {
-        padding: 10rem 4% 2rem;
+        padding: 5rem 4% 2rem;
     }
 
     .home {
